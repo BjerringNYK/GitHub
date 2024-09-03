@@ -23,4 +23,4 @@ st.write("Feeling down? Here's a random joke to brighten your day! 😂")
 
 # Adding an Easter egg
 if st.button("What's the best programming language?"):
-    st.write("Python, of course! 🐍")
+    st.write("Python, of course!!! 🐍")
